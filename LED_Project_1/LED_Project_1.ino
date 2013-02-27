@@ -1,4 +1,9 @@
 
+/*
+ * Adam Charlton
+ * LED Project : Assignment 1 : Embedded Systems
+ */
+
 int sensorPin = A0;    // select the input pin for the potentiometer
 
 int ledPins[] = {8, 9, 10, 11, 12}; // set pin for the LEDs
